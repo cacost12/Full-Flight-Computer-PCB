@@ -1,6 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Flight-Computer")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Flight-Computer/lib/Full-Flight-Computer.pretty")(options "")(descr ""))
-  (lib (name "Engine-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Liquid-Engine-Controller/lib/Engine-Controller.pretty")(options "")(descr ""))
-  (lib (name "MountingHole")(type "KiCad")(uri "/home/olsport/Software/kicad/kicad-footprints-master/MountingHole.pretty")(options "")(descr ""))
+  (lib (name "Base-Flight-Computer")(type "KiCad")(uri "/home/olsport/Documents/Rockets/PCB/Base-Flight-Computer-PCB/lib/Base-Flight-Computer.pretty")(options "")(descr ""))
+  (lib (name "Flight-Computer")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Flight-Computer/lib/Flight-Computer.pretty")(options "")(descr ""))
+  (lib (name "Full-Flight-Computer")(type "KiCad")(uri "/home/olsport/Documents/Rockets/PCB/Full-Flight-Computer-PCB/lib/Full-Flight-Computer.pretty")(options "")(descr ""))
 )

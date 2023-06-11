@@ -1,0 +1,23 @@
+(footprint "MountingHole_4-40" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Mounting Hole 3mm")
+  (tags "mounting hole 3mm")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -4) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 298ed89d-a416-47a5-be9c-26fad925aa04)
+  )
+  (fp_text value "MountingHole_4-40" (at 0 4) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c1a04af5-7836-43c6-b8cc-40aa14a58746)
+  )
+  (fp_text user "${REFERENCE}" (at 0.3 0) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 21f4e182-cf5e-4b35-beef-54494dbd784f)
+  )
+  (fp_circle (center 0 0) (end 3 0)
+    (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp 8f2f8679-2d30-41f6-bd38-0f00f8829949))
+  (fp_circle (center 0 0) (end 3.25 0)
+    (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 6934fc6f-8f2d-4534-819a-0a58395272b1))
+  (pad "1" thru_hole circle (at 0 0) (size 5.588 5.588) (drill 3.2639) (layers "*.Cu" "*.Mask") (tstamp 7b76f4aa-fe99-4b71-b043-2ec3f25e6f63))
+)
