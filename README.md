@@ -1,36 +1,32 @@
-<h1>Flight Computer</h1>
+<h1>Full Feature Flight Computer</h1>
 
-<p><b>Current PCB Revision:</b> 2.0</p>
+<p><b>Current PCB Revision:</b> 1.0</p>
 <p><b>PCB Part Number:</b> A0002</p>
 
-<p>The Avionics team aims to produce a general purpose flight computer 
- for use in high powered rocketry projects that require an embedded processor
-specialized for state estimation and control system implementation. The Avionics
-flight computer PCB uses an ARM Microcontroller with embedded control and 
-navigation sensors to provide a computationally capable embedded protoyping 
-platform for high powered rocketry projects with minimal wiring and a small
- form factor.</p>
+<p>
+The full feature flight computer supports the full range of amateur rocketry recovery and launch configurations 
+such as dual-deploy parachute recovery, staging, IMU and barometric pressure sensor data logging, and redundant
+parachute ejection. In addition to all the functionality of the base flight computer model, the full feature 
+board includes two IMUs for low and high G data collection, and two auxiliary ignition ports for use with staging
+ignition and/or redunant parachute ejection charges. 
+ </p>
 
 <b>Working Directory Structure:</b>
  
  <p>
+cad: 3d models
+
 doc: documentation
+
+img: images of circuit/footprints for github display 
     
-src: source design files, e.g. schematic and board files
- 
 lib: libraries for schematic symbols and footprints
  
 production: files needed for pcb fabrication, e.g. gerbers, profile, drill fi    le
  
- sim: simulation files 
-  
- cad: 3d models
+sim: simulation files 
    
- img: images of circuit/footprints for github display 
+src: source design files, e.g. schematic and board files
  </p>
 
 <h2>3D Model: </h2>
-
-<img src="img/Flight-Computer-TOP.png">
-<img src="img/Flight-Computer-BOTTOM.png">
-
