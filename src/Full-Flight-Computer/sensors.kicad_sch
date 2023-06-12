@@ -1012,7 +1012,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 59.055 183.515 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0a099f11-dfb5-4554-82f4-5ec16a816f5e)
-    (property "Reference" "#PWR020" (at 59.055 189.865 0)
+    (property "Reference" "#PWR026" (at 59.055 189.865 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 59.055 187.325 0)
@@ -1028,7 +1028,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
     )
@@ -1037,7 +1037,7 @@
   (symbol (lib_id "Full-Flight-Computer:RES_0402") (at 111.125 35.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f10209d-e80d-4264-9d1d-ea4f9620c93f)
-    (property "Reference" "R9" (at 112.8776 34.7253 90)
+    (property "Reference" "R8" (at 112.8776 34.7253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 112.8776 37.2622 90)
@@ -1054,7 +1054,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "R9") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -1063,7 +1063,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 53.34 60.325 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 26733ad0-fdbb-4ed9-b989-ac6f6420d415)
-    (property "Reference" "#PWR016" (at 53.34 66.675 0)
+    (property "Reference" "#PWR022" (at 53.34 66.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 53.34 64.135 0)
@@ -1079,7 +1079,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -1088,7 +1088,7 @@
   (symbol (lib_id "Full-Flight-Computer:RES_0402") (at 180.34 46.355 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2689fcc4-b9ba-4de0-b41e-2fa984b48a47)
-    (property "Reference" "R18" (at 175.26 45.085 90)
+    (property "Reference" "R9" (at 175.26 45.085 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "4.7k" (at 174.625 47.625 90)
@@ -1105,7 +1105,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "R18") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -1114,7 +1114,7 @@
   (symbol (lib_id "Full-Flight-Computer:CAP_0402") (at 241.3 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2bcd4158-516a-4eb6-9314-527fe16f509c)
-    (property "Reference" "C20" (at 243.84 47.4253 90)
+    (property "Reference" "C15" (at 243.84 47.4253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0.1uF" (at 243.84 49.9622 90)
@@ -1131,7 +1131,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "C20") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -1140,7 +1140,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 230.505 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2bea2591-d79d-454c-a609-e36f6c5c5bbd)
-    (property "Reference" "#PWR028" (at 230.505 68.58 0)
+    (property "Reference" "#PWR023" (at 230.505 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 230.505 66.04 0)
@@ -1156,7 +1156,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -1165,7 +1165,7 @@
   (symbol (lib_id "Full-Flight-Computer:RES_0402") (at 187.96 46.355 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d82370d-b9e8-47ef-889a-3fe972f2ded4)
-    (property "Reference" "R19" (at 182.88 45.085 90)
+    (property "Reference" "R10" (at 182.88 45.085 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "4.7k" (at 182.245 47.625 90)
@@ -1182,7 +1182,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "R19") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -1191,7 +1191,7 @@
   (symbol (lib_id "Full-Flight-Computer:BMP390") (at 213.36 52.705 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3c2cdce9-6516-4d03-a860-07cda1f9a7e8)
-    (property "Reference" "U5" (at 213.36 38.735 0)
+    (property "Reference" "U4" (at 213.36 38.735 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BMP390" (at 213.995 61.595 0)
@@ -1216,7 +1216,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "U5") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -1225,7 +1225,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 98.425 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4f903274-7819-4ad4-9ef1-7cd0982c653d)
-    (property "Reference" "#PWR018" (at 98.425 74.93 0)
+    (property "Reference" "#PWR025" (at 98.425 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 98.425 72.39 0)
@@ -1241,7 +1241,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -1276,7 +1276,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 93.98 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b35c39c-8a9a-430a-b02f-1dcbc83d4cdf)
-    (property "Reference" "#PWR021" (at 93.98 194.31 0)
+    (property "Reference" "#PWR027" (at 93.98 194.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 93.98 191.77 0)
@@ -1292,7 +1292,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -1301,7 +1301,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 241.3 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8358900f-d7de-4d9d-9de1-e668f74beb0f)
-    (property "Reference" "#PWR033" (at 241.3 59.69 0)
+    (property "Reference" "#PWR019" (at 241.3 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 241.3 57.15 0)
@@ -1317,7 +1317,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -1326,7 +1326,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 196.85 59.055 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8467e082-9e1f-4dd6-bb75-50a3274b64ec)
-    (property "Reference" "#PWR027" (at 196.85 65.405 0)
+    (property "Reference" "#PWR021" (at 196.85 65.405 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 196.85 62.865 0)
@@ -1342,7 +1342,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -1351,7 +1351,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 251.46 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89a82fe6-b955-4a17-837d-b932f66d0076)
-    (property "Reference" "#PWR034" (at 251.46 59.69 0)
+    (property "Reference" "#PWR020" (at 251.46 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 251.46 57.15 0)
@@ -1367,7 +1367,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -1376,7 +1376,7 @@
   (symbol (lib_id "Full-Flight-Computer:Earth") (at 43.18 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a733085-ccb6-4e9a-ae63-1f8c81139c23)
-    (property "Reference" "#PWR017" (at 43.18 69.85 0)
+    (property "Reference" "#PWR024" (at 43.18 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 43.18 67.31 0)
@@ -1392,7 +1392,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -1491,7 +1491,7 @@
   (symbol (lib_id "Full-Flight-Computer:CAP_0402") (at 251.46 48.26 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f42c2989-ba5e-418c-93c7-32941c9e1997)
-    (property "Reference" "C21" (at 254 47.4253 90)
+    (property "Reference" "C16" (at 254 47.4253 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0.1uF" (at 254 49.9622 90)
@@ -1508,7 +1508,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "C21") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
@@ -1517,7 +1517,7 @@
   (symbol (lib_id "Full-Flight-Computer:BMM150") (at 76.2 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd13d82b-457f-4f39-a9ca-5fe07235f540)
-    (property "Reference" "U12" (at 76.2 173.355 0)
+    (property "Reference" "U5" (at 76.2 173.355 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BMM150" (at 66.04 190.5 0)
@@ -1562,7 +1562,7 @@
     (instances
       (project "Full-Flight-Computer"
         (path "/15d2e012-e166-422c-a8f3-0484b565dd65/a7215684-cee9-4aba-87f1-e5962f77da19"
-          (reference "U12") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
