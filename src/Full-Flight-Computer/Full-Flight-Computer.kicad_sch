@@ -4238,7 +4238,7 @@
     )
   )
 
-  (symbol (lib_id "Full-Flight-Computer:CAP_0603") (at 146.558 49.784 90) (unit 1)
+  (symbol (lib_id "Full-Flight-Computer:CAP_0402") (at 146.558 49.784 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 56139f4d-c360-4ca9-93e2-13ac5bb858d9)
     (property "Reference" "C7" (at 141.732 48.768 90)
@@ -4247,7 +4247,7 @@
     (property "Value" "0.1uF" (at 138.938 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Full-Flight-Computer:CAP_0603" (at 156.718 52.324 0)
+    (property "Footprint" "Full-Flight-Computer:CAP_0402" (at 156.718 52.324 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at 146.558 51.054 0)

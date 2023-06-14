@@ -1,8 +1,8 @@
 (footprint "QS5U17TR" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at 0.127 -2.667) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0.127 -2.286) (layer "F.SilkS")
+      (effects (font (size 0.508 0.508) (thickness 0.15)))
     (tstamp 83df1cb6-463f-4373-8105-981cc8fe8190)
   )
   (fp_text value "TRANS_QS5K_ROM" (at 0.635 2.921) (layer "F.SilkS") hide
