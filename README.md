@@ -30,3 +30,5 @@ src: source design files, e.g. schematic and board files
  </p>
 
 <h2>3D Model: </h2>
+<img src="img/A0002-Rev1_0-FRONT.png">
+<img src="img/A0002-Rev1_0-BOTTOM.png">
