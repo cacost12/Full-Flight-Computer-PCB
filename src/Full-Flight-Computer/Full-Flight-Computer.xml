@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/olsport/Documents/Rockets/PCB/Full-Flight-Computer-PCB/src/Full-Flight-Computer/Full-Flight-Computer.kicad_sch</source>
+    <date>Wed Aug  2 18:19:58 2023</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Flight Computer</title>
+        <company>Sun Devil Rocketry</company>
+        <rev>1.0</rev>
+        <date>2022-05-30</date>
+        <source>Full-Flight-Computer.kicad_sch</source>
+        <comment number="1" value="Author: Colton Acosta"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>sensors.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>peripherals.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ac0f0b3-126f-4972-81c4-18e43449fc8b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9718dd1-efda-4d40-b27b-3ee5007cd784</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f390015-9aad-4194-aad0-1b7e981c5e60</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>2.2uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a420846b-2c54-4643-8d1e-87a2c69feb7f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc2bd32e-67d4-4979-b154-7c09766db2f1</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4908c54-6a83-404d-b340-6e97b71b9cf0</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56139f4d-c360-4ca9-93e2-13ac5bb858d9</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>621f65fc-0ffe-4ff6-af8b-c92bf181c14b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>2.2uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6836dde7-99bd-4d74-8d57-2e7eb4739de4</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6eb5a770-75f2-483c-9250-ae7b6cade888</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0603</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f742a01e-092d-41eb-a5a8-bde284499ac2</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>8pF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea9fd317-6898-48d4-b743-5a7fe1ebd6e6</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0603</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c26851a7-02c3-42aa-b10c-11cc56305020</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>8pF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75c4966b-7f0f-4f04-acad-a3176902f66a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>CLMVC-FKA-CL1D1L71BB7C3C3</value>
+      <footprint>Full-Flight-Computer:CLMVC-FKA-CL1D1L71BB7C3C3</footprint>
+      <libsource lib="Full-Flight-Computer" part="CLMVC-FKA-CL1D1L71BB7C3C3" description=""/>
+      <property name="MANUFACTURER" value=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value=""/>
+      <property name="PARTREV" value=""/>
+      <property name="STANDARD" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>625a26ae-4315-4158-9fbe-9e106487c8d3</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>PMEG3010AESBYL</value>
+      <footprint>Full-Flight-Computer:PMEG3010AESBYL</footprint>
+      <libsource lib="Full-Flight-Computer" part="PMEG3010AESBYL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c6e4320-afaa-4a46-87f1-313e279bb3a0</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>PMEG3010AESBYL</value>
+      <footprint>Full-Flight-Computer:PMEG3010AESBYL</footprint>
+      <libsource lib="Full-Flight-Computer" part="PMEG3010AESBYL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67f1f65b-9627-41bf-b463-512f93145ffe</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>PMEG3010AESBYL</value>
+      <footprint>Full-Flight-Computer:PMEG3010AESBYL</footprint>
+      <libsource lib="Full-Flight-Computer" part="PMEG3010AESBYL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e760b74e-4231-47cf-a5e3-abefc8838681</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LTST-C191KGKT</value>
+      <footprint>Full-Flight-Computer:LTST-C191KGKT</footprint>
+      <libsource lib="Full-Flight-Computer" part="LTST-C191KGKT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5564402b-6b3e-478e-8850-a082d3e6099d</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>Mounting-Hole-4-40</value>
+      <footprint>Full-Flight-Computer:MountingHole_4-40</footprint>
+      <libsource lib="Full-Flight-Computer" part="Mounting-Hole-4-40" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>293d3f99-50f8-451b-a545-277270b8dc55</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>Mounting-Hole-4-40</value>
+      <footprint>Full-Flight-Computer:MountingHole_4-40</footprint>
+      <libsource lib="Full-Flight-Computer" part="Mounting-Hole-4-40" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27c61d20-c2cb-4d05-86ef-0d2fda1b02e2</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>Mounting-Hole</value>
+      <footprint>Full-Flight-Computer:MountingHole_4-40</footprint>
+      <libsource lib="Full-Flight-Computer" part="Mounting-Hole-4-40" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4d39a21-7c02-4cb7-9374-fdfaaba092a9</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>Mounting-Hole</value>
+      <footprint>Full-Flight-Computer:MountingHole_4-40</footprint>
+      <libsource lib="Full-Flight-Computer" part="Mounting-Hole-4-40" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>452e9066-55aa-4bb3-996a-5c052572f947</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Jumper_NO</value>
+      <footprint>Full-Flight-Computer:Jumper-NO</footprint>
+      <libsource lib="Full-Flight-Computer" part="Jumper_NO" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bafa81bc-9c13-4533-81f7-048cec1d702b</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>0530470610</value>
+      <footprint>Full-Flight-Computer:53047-0610</footprint>
+      <libsource lib="Full-Flight-Computer" part="0530470610" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b61e52b-012a-4485-890e-ad2af645a39a</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>B2B-PH-K-SLFSN_JST</value>
+      <footprint>Full-Flight-Computer:B2B-PH-K-SLFSN_JST</footprint>
+      <libsource lib="Full-Flight-Computer" part="B2B-PH-K-SLFSN_JST" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b3241b8-554d-40a3-b4b8-e4e5cbd3644d</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>1984659</value>
+      <footprint>Full-Flight-Computer:1546551-4</footprint>
+      <libsource lib="Full-Flight-Computer" part="1546551-4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d117c8c-f380-4ec5-9721-6258ce6c29e7</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>82</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5bc671e-4f2a-47b5-9c00-3f0bc44ffb57</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>82</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02dec8a7-0247-44dc-bbaf-7d67bf2707ab</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>240</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb37467d-be01-4b65-b8af-8507b902777a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>39k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23451836-cb24-4e68-806a-3524e7c86395</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93cd4005-1efb-4bbb-8cb9-f37da4285362</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>240</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af50f6ab-fb4f-4b1c-86c7-2ea4be47cbb4</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>STM32H750VBTx</value>
+      <footprint>Full-Flight-Computer:STM32H750VBT6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32h750ib.pdf</datasheet>
+      <libsource lib="Full-Flight-Computer" part="STM32H750VBTx" description="ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 82 GPIO, LQFP-100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <property name="ki_description" value="ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 82 GPIO, LQFP-100"/>
+      <property name="ki_keywords" value="ARM Cortex-M7 STM32H7"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000614b51f2</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AP7370-33Y-13</value>
+      <footprint>Full-Flight-Computer:AP7370-33Y-13</footprint>
+      <libsource lib="Full-Flight-Computer" part="AP7370-33Y-13" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b836f8a7-296f-4c9e-85a3-166d4ba698fc</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>ECS-240-18-33-JGN-TR</value>
+      <footprint>Full-Flight-Computer:ECS-240-12-37B-CKY-TR</footprint>
+      <libsource lib="Full-Flight-Computer" part="ECS-240-12-37B-CKY-TR" description="Two pin crystal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Full-Flight-Computer.kicad_sch"/>
+      <property name="ki_description" value="Two pin crystal"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fe127d3-8d94-46ea-90c9-64f19144e6e4</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>a0cd1c44-a6aa-4d8b-a2b3-df49039d37ee</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>6bf77307-b356-426a-b57a-ed29e912f1ea</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>2bcd4158-516a-4eb6-9314-527fe16f509c</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>f42c2989-ba5e-418c-93c7-32941c9e1997</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>c5059a8b-a277-46f0-a572-1bee9469d1f3</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>a00a994e-144e-4867-8953-26047cca14b2</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>0f10209d-e80d-4264-9d1d-ea4f9620c93f</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>e11f7cd5-c42e-4890-91c1-bb840e9eeb91</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>2689fcc4-b9ba-4de0-b41e-2fa984b48a47</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>1fd833ec-246e-48ea-937e-7897f0a32e81</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>2d82370d-b9e8-47ef-889a-3fe972f2ded4</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>BMI323</value>
+      <footprint>Full-Flight-Computer:BMI323</footprint>
+      <libsource lib="Full-Flight-Computer" part="BMI323" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>dd0328c6-3986-4941-b020-7d71cd718d1a</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>BMM150</value>
+      <footprint>Full-Flight-Computer:BMM150</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">BMM150 Series 3.6 V Surface Mount Three-Axis Geomagnetic Sensor - WLCSP-12</field>
+        <field name="MF">Bosch Sensortec</field>
+        <field name="MP">BMM150</field>
+        <field name="PACKAGE">WLCSP-12 Bosch</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="Full-Flight-Computer" part="BMM150" description=""/>
+      <property name="DESCRIPTION" value="BMM150 Series 3.6 V Surface Mount Three-Axis Geomagnetic Sensor - WLCSP-12"/>
+      <property name="PACKAGE" value="WLCSP-12 Bosch"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="MP" value="BMM150"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="Bosch Sensortec"/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>fd13d82b-457f-4f39-a9ca-5fe07235f540</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>BMP390</value>
+      <footprint>Full-Flight-Computer:BMP390</footprint>
+      <libsource lib="Full-Flight-Computer" part="BMP390" description=""/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>3c2cdce9-6516-4d03-a860-07cda1f9a7e8</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>H3LIS100DLTR</value>
+      <footprint>Full-Flight-Computer:H3LIS100DLTR</footprint>
+      <fields>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1 mm</field>
+        <field name="PARTREV">2</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="Full-Flight-Computer" part="H3LIS100DLTR" description=""/>
+      <property name="PARTREV" value="2"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1 mm"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="Sheetname" value="Sensors"/>
+      <property name="Sheetfile" value="sensors.kicad_sch"/>
+      <property name="Field2" value="IMU"/>
+      <property name="Field3" value="GPS"/>
+      <property name="Field4" value="Pressure"/>
+      <property name="Field5" value="Temperature"/>
+      <property name="Field6" value="Motor Driver"/>
+      <property name="Field7" value="Magnetometer"/>
+      <sheetpath names="/Sensors/" tstamps="/a7215684-cee9-4aba-87f1-e5962f77da19/"/>
+      <tstamps>50d00070-9110-4a00-89d1-e2596e4b25e8</tstamps>
+    </comp>
+    <comp ref="BZ1">
+      <value>AT-1438-TWT-R</value>
+      <footprint>Full-Flight-Computer:AT-1438-TWT-R</footprint>
+      <libsource lib="Full-Flight-Computer" part="AT-1438-TWT-R" description="Buzzer, polarized"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="Buzzer, polarized"/>
+      <property name="ki_keywords" value="quartz resonator ceramic"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>dcf53b8e-5cb2-4b5e-b7a1-694eccecca5e</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>e95a5cf6-226b-4d1b-8039-9e8c43fd4ac7</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>1202e2b5-5fa6-4082-846b-4caa2bb85587</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>bd339f72-1379-4bc4-a8c6-c6af85a1e2ad</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>5dab0109-4ed8-4280-bff0-3ea7d971cb40</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>23002e4e-56b9-4c71-822e-bdf0936b59cc</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF</value>
+      <footprint>Full-Flight-Computer:CAP_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="CAP_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>127930af-6675-4e78-8ff1-709288abe942</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SP0504BAHTG</value>
+      <footprint>Full-Flight-Computer:SP0504BAHTG</footprint>
+      <libsource lib="Full-Flight-Computer" part="SP0504BAHTG" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>f6b77aa9-630f-4f73-aaf8-74b9024d28b8</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>1546551-4</value>
+      <footprint>Full-Flight-Computer:1546551-4</footprint>
+      <libsource lib="Full-Flight-Computer" part="1546551-4" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>fe4031d7-5fab-4fa9-a62a-73f86d902344 42425598-e123-4fff-b6fa-dede3ff1cf55</tstamps>
+    </comp>
+    <comp ref="P5">
+      <value>1984659</value>
+      <footprint>Full-Flight-Computer:1546551-4</footprint>
+      <libsource lib="Full-Flight-Computer" part="1546551-4" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>b8d34f71-21bd-448a-abc8-d3b8e352d513 6deaa181-55fa-4d6e-89cd-e5807f85eded</tstamps>
+    </comp>
+    <comp ref="P6">
+      <value>USB</value>
+      <footprint>Full-Flight-Computer:10118194-0001LF</footprint>
+      <libsource lib="Full-Flight-Computer" part="USB" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>cba84471-3533-47a7-8ab9-8b3ef15eb4c6</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>QS5U17TR</value>
+      <footprint>Full-Flight-Computer:QS5U17TR</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="QS5U17TR" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>3fa02325-d366-4ed4-ae37-d5ca8bc2ed5e</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>QS5U17TR</value>
+      <footprint>Full-Flight-Computer:QS5U17TR</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="QS5U17TR" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>c3aabd2d-3c38-47f6-b7b5-2aca63b200d6</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>QS5U17TR</value>
+      <footprint>Full-Flight-Computer:QS5U17TR</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="QS5U17TR" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>d40301b8-935b-4dfb-b3d7-03cc8a00c9e4</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>QS5U17TR</value>
+      <footprint>Full-Flight-Computer:QS5U17TR</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="QS5U17TR" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>46be8c9c-8776-4f69-9cc3-12c8f2387051</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>2N7002W-7-F</value>
+      <footprint>Full-Flight-Computer:2N7002W-7-F</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="2N7002W-7-F" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>d300e763-d6f7-4630-90bc-41efede18d5a</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>2N7002W-7-F</value>
+      <footprint>Full-Flight-Computer:2N7002W-7-F</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="2N7002W-7-F" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>1444af05-7853-4f52-8102-d1ed463dd013</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>2N7002W-7-F</value>
+      <footprint>Full-Flight-Computer:2N7002W-7-F</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="2N7002W-7-F" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>055fffa2-3371-4bd9-91d7-5542fd329233</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>2N7002W-7-F</value>
+      <footprint>Full-Flight-Computer:2N7002W-7-F</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="2N7002W-7-F" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>b94e7c6c-e877-4919-a733-f0dc5f71b956</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>2N7002W-7-F</value>
+      <footprint>Full-Flight-Computer:2N7002W-7-F</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="2N7002W-7-F" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>419cc6b1-2059-4818-8c09-082a9a2f83ef</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>2N7002W-7-F</value>
+      <footprint>Full-Flight-Computer:2N7002W-7-F</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Full-Flight-Computer" part="2N7002W-7-F" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <property name="ki_description" value="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>bfff6d7a-6df8-42d1-a2bd-4b439be86c3e</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>4d8a2c01-fe88-4e51-9b8a-8cf6cf91112f</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>3281c1e3-97e7-4714-9965-4ab0f51a1931</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>100k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>acf4333f-393f-4ff8-96c8-ea9a0fe583c7</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>c0f08b98-73de-4e2c-9dfe-ad9f888c0af4</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>7194642a-bd1f-4612-9a99-096234a289b1</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>782a6812-ed21-4b14-8d3b-60e07c634f6a</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>5773341c-4fe9-4875-a72d-2d72f62dc47f</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>797f314f-6f17-4d52-80e1-9f78377db720</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>cb266e53-db5f-4171-8bef-a61022a129ee</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>100k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>c13cd098-9831-401f-963c-022ba4f1cb29</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>200k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>7e869c97-7867-4c87-980a-f62b251a0ad6</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>230bcf2c-a7e1-482d-99b1-8aa8871c45a5</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>100k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>28ef4f49-c95f-422f-8152-46271a7b8ade</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>4.7k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>95c3c78b-ba03-49bb-a9ef-f43e3f47494f</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>1d9f92a5-4f21-4fd2-9956-989cf5b8b4be</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>Full-Flight-Computer:RES_0402</footprint>
+      <libsource lib="Full-Flight-Computer" part="RES_0402" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>95a5581c-a531-464e-8258-e8398ce0a8d6</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>SST25VF040B-50-4I-S2AE-T</value>
+      <footprint>Full-Flight-Computer:SST25VF040B-50-4I-S2AE-T</footprint>
+      <libsource lib="Full-Flight-Computer" part="SST25VF040B-50-4I-S2AE-T" description=""/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>65952f96-9ab0-429d-81a2-9161b1345693</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>CP2102-GMR(QFN28)</value>
+      <footprint>Full-Flight-Computer:CP2012-GMR</footprint>
+      <fields>
+        <field name="MPN">CP2102-GMR</field>
+      </fields>
+      <libsource lib="Full-Flight-Computer" part="CP2102-GMR" description=""/>
+      <property name="MPN" value="CP2102-GMR"/>
+      <property name="Sheetname" value="Peripherals"/>
+      <property name="Sheetfile" value="peripherals.kicad_sch"/>
+      <property name="Field2" value="USB"/>
+      <property name="Field3" value="Flash"/>
+      <property name="Field4" value="Parachute Deployment"/>
+      <property name="Field5" value="Staging"/>
+      <property name="Field6" value="Buzzer"/>
+      <sheetpath names="/Peripherals/" tstamps="/b65729ce-aade-4707-9cc1-eb9bb9e47e4f/"/>
+      <tstamps>98de094b-44fc-4e45-b328-3d87ef68589b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Full-Flight-Computer" part="0530470610">
+      <footprints>
+        <fp>CONN20_D10-RA-BK_SUL</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">0530470610</field>
+        <field name="Footprint">Full-Flight-Computer:53047-0610</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="1546551-4">
+      <footprints>
+        <fp>66953-005LF_AMP</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">1546551-4</field>
+        <field name="Footprint">Full-Flight-Computer:1546551-4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="5" type="passive"/>
+        <pin num="2" name="6" type="passive"/>
+        <pin num="3" name="5" type="passive"/>
+        <pin num="4" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="2N7002W-7-F">
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002W-7-F</field>
+        <field name="Footprint">Full-Flight-Computer:2N7002W-7-F</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="AP7370-33Y-13">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP7370-33Y-13</field>
+        <field name="Footprint">Full-Flight-Computer:AP7370-33Y-13</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="power_out"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="AT-1438-TWT-R">
+      <description>Buzzer, polarized</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Buzzer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">BZ</field>
+        <field name="Value">AT-1438-TWT-R</field>
+        <field name="Footprint">Full-Flight-Computer:AT-1438-TWT-R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="B2B-PH-K-SLFSN_JST">
+      <footprints>
+        <fp>66953-005LF_AMP</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">B2B-PH-K-SLFSN_JST</field>
+        <field name="Footprint">Full-Flight-Computer:B2B-PH-K-SLFSN_JST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="5" type="passive"/>
+        <pin num="2" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="BMI323">
+      <footprints>
+        <fp>BMI323_BOS</fp>
+        <fp>BMI323_BOS-M</fp>
+        <fp>BMI323_BOS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BMI323</field>
+        <field name="Footprint">Full-Flight-Computer:BMI323</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDO" type="bidirectional"/>
+        <pin num="2" name="NC" type="passive"/>
+        <pin num="3" name="NC" type="passive"/>
+        <pin num="4" name="INT1" type="bidirectional"/>
+        <pin num="5" name="VDDIO" type="power_in"/>
+        <pin num="6" name="GNDIO" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="INT2" type="bidirectional"/>
+        <pin num="10" name="NC" type="passive"/>
+        <pin num="11" name="NC" type="passive"/>
+        <pin num="12" name="CSB" type="input"/>
+        <pin num="13" name="SCX" type="input"/>
+        <pin num="14" name="SDX" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="BMM150">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BMM150</field>
+        <field name="Footprint">Full-Flight-Computer:BMM150</field>
+        <field name="DESCRIPTION">BMM150 Series 3.6 V Surface Mount Three-Axis Geomagnetic Sensor - WLCSP-12</field>
+        <field name="PACKAGE">WLCSP-12 Bosch</field>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="MP">BMM150</field>
+        <field name="PRICE">None</field>
+        <field name="MF">Bosch Sensortec</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="PS" type="input"/>
+        <pin num="A3" name="SCK" type="input"/>
+        <pin num="A5" name="CSB" type="input"/>
+        <pin num="B2" name="VDDIO" type="power_in"/>
+        <pin num="B4" name="SDI" type="bidirectional"/>
+        <pin num="C1" name="SDO" type="output"/>
+        <pin num="C5" name="GND" type="power_in"/>
+        <pin num="D2" name="INT" type="output"/>
+        <pin num="D4" name="DRDY" type="output"/>
+        <pin num="E1" name="GND" type="power_in"/>
+        <pin num="E3" name="GND" type="power_in"/>
+        <pin num="E5" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="BMP390">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BMP390</field>
+        <field name="Footprint">Full-Flight-Computer:BMP390</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDDIO" type="power_in"/>
+        <pin num="2" name="SCK" type="input"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="SDI" type="input"/>
+        <pin num="5" name="SDO" type="input"/>
+        <pin num="6" name="CSB" type="input"/>
+        <pin num="7" name="INT" type="output"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="VSS" type="power_in"/>
+        <pin num="10" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="CAP_0402">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_0402</field>
+        <field name="Footprint">Full-Flight-Computer:CAP_0402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="CAP_0603">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP_0603</field>
+        <field name="Footprint">Full-Flight-Computer:CAP_0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="CLMVC-FKA-CL1D1L71BB7C3C3">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">CLMVC-FKA-CL1D1L71BB7C3C3</field>
+        <field name="Footprint">Full-Flight-Computer:CLMVC-FKA-CL1D1L71BB7C3C3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="CP2102-GMR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP2102-GMR(QFN28)</field>
+        <field name="Footprint">Full-Flight-Computer:CP2012-GMR</field>
+        <field name="MPN">CP2102-GMR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DCD" type="bidirectional"/>
+        <pin num="2" name="RI" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="D-" type="bidirectional"/>
+        <pin num="6" name="VDD" type="bidirectional"/>
+        <pin num="7" name="REGIN" type="power_in"/>
+        <pin num="8" name="VBUS" type="power_in"/>
+        <pin num="9" name="~{RST}" type="bidirectional"/>
+        <pin num="10" name="NC" type="bidirectional"/>
+        <pin num="11" name="~{SUSPEND}" type="bidirectional"/>
+        <pin num="12" name="SUSPEND" type="bidirectional"/>
+        <pin num="13" name="NC@1" type="bidirectional"/>
+        <pin num="14" name="NC@2" type="bidirectional"/>
+        <pin num="15" name="NC@3" type="bidirectional"/>
+        <pin num="16" name="NC@4" type="bidirectional"/>
+        <pin num="17" name="NC@5" type="bidirectional"/>
+        <pin num="18" name="NC/VPP" type="bidirectional"/>
+        <pin num="19" name="NC@6" type="bidirectional"/>
+        <pin num="20" name="NC@7" type="bidirectional"/>
+        <pin num="21" name="NC@8" type="bidirectional"/>
+        <pin num="22" name="NC@9" type="bidirectional"/>
+        <pin num="23" name="CTS" type="bidirectional"/>
+        <pin num="24" name="RTS" type="bidirectional"/>
+        <pin num="25" name="RXD" type="bidirectional"/>
+        <pin num="26" name="TXD" type="bidirectional"/>
+        <pin num="27" name="DSR" type="bidirectional"/>
+        <pin num="28" name="DTR" type="bidirectional"/>
+        <pin num="29" name="PAD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="ECS-240-12-37B-CKY-TR">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">ECS-240-18-33-JGN-TR</field>
+        <field name="Footprint">Full-Flight-Computer:ECS-240-12-37B-CKY-TR</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="" type="no_connect"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="H3LIS100DLTR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">H3LIS100DLTR</field>
+        <field name="Footprint">Full-Flight-Computer:H3LIS100DLTR</field>
+        <field name="PARTREV">2</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1 mm</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD_IO" type="power_in"/>
+        <pin num="2" name="NC" type="passive"/>
+        <pin num="3" name="NC1" type="passive"/>
+        <pin num="4" name="SCL/SPC" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="SDA/SDI/SDO" type="bidirectional"/>
+        <pin num="7" name="SDO/SA0" type="bidirectional"/>
+        <pin num="8" name="CS" type="input"/>
+        <pin num="9" name="INT2" type="output"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="INT1" type="output"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="VDD" type="power_in"/>
+        <pin num="15" name="VDD" type="power_in"/>
+        <pin num="16" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="Jumper_NO">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jumper_NO</field>
+        <field name="Footprint">Full-Flight-Computer:Jumper-NO</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="LTST-C191KGKT">
+      <footprints>
+        <fp>LED_LTST-C150GKT_LTO</fp>
+        <fp>LED_LTST-C150GKT_LTO-M</fp>
+        <fp>LED_LTST-C150GKT_LTO-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LTST-C191KGKT</field>
+        <field name="Footprint">Full-Flight-Computer:LTST-C191KGKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="Mounting-Hole-4-40">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">Mounting-Hole-4-40</field>
+        <field name="Footprint">Full-Flight-Computer:MountingHole_4-40</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="PMEG3010AESBYL">
+      <footprints>
+        <fp>SOD-123FL_MCC</fp>
+        <fp>SOD-123FL_MCC-M</fp>
+        <fp>SOD-123FL_MCC-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PMEG3010AESBYL</field>
+        <field name="Footprint">Full-Flight-Computer:PMEG3010AESBYL</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="QS5U17TR">
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">QS5U17TR</field>
+        <field name="Footprint">Full-Flight-Computer:QS5U17TR</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="" type="no_connect"/>
+        <pin num="4" name="" type="no_connect"/>
+        <pin num="5" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="RES_0402">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RES_0402</field>
+        <field name="Footprint">Full-Flight-Computer:RES_0402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="SP0504BAHTG">
+      <footprints>
+        <fp>SOD-123FL_MCC</fp>
+        <fp>SOD-123FL_MCC-M</fp>
+        <fp>SOD-123FL_MCC-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SP0504BAHTG</field>
+        <field name="Footprint">Full-Flight-Computer:SP0504BAHTG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="SST25VF040B-50-4I-S2AE-T">
+      <footprints>
+        <fp>SOIC8_S2A_SST_MCH</fp>
+        <fp>SOIC8_S2A_SST_MCH-M</fp>
+        <fp>SOIC8_S2A_SST_MCH-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SST25VF040B-50-4I-S2AE-T</field>
+        <field name="Footprint">Full-Flight-Computer:SST25VF040B-50-4I-S2AE-T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="*CE" type="input"/>
+        <pin num="2" name="SO" type="output"/>
+        <pin num="3" name="*WP" type="input"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="SI" type="input"/>
+        <pin num="6" name="SCK" type="input"/>
+        <pin num="7" name="*HOLD" type="input"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="STM32H750VBTx">
+      <description>ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 82 GPIO, LQFP-100</description>
+      <docs>https://www.st.com/resource/en/datasheet/stm32h750ib.pdf</docs>
+      <footprints>
+        <fp>LQFP*14x14mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32H750VBTx</field>
+        <field name="Footprint">Full-Flight-Computer:STM32H750VBT6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32h750ib.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE2" type="bidirectional"/>
+        <pin num="2" name="PE3" type="bidirectional"/>
+        <pin num="3" name="PE4" type="bidirectional"/>
+        <pin num="4" name="PE5" type="bidirectional"/>
+        <pin num="5" name="PE6" type="bidirectional"/>
+        <pin num="6" name="VBAT" type="power_in"/>
+        <pin num="7" name="PC13" type="bidirectional"/>
+        <pin num="8" name="PC14" type="bidirectional"/>
+        <pin num="9" name="PC15" type="bidirectional"/>
+        <pin num="10" name="VSS" type="power_in"/>
+        <pin num="11" name="VDD" type="power_in"/>
+        <pin num="12" name="PH0" type="input"/>
+        <pin num="13" name="PH1" type="input"/>
+        <pin num="14" name="NRST" type="input"/>
+        <pin num="15" name="PC0" type="bidirectional"/>
+        <pin num="16" name="PC1" type="bidirectional"/>
+        <pin num="17" name="PC2_C" type="bidirectional"/>
+        <pin num="18" name="PC3_C" type="bidirectional"/>
+        <pin num="19" name="VSSA" type="power_in"/>
+        <pin num="20" name="VREF+" type="power_in"/>
+        <pin num="21" name="VDDA" type="power_in"/>
+        <pin num="22" name="PA0" type="bidirectional"/>
+        <pin num="23" name="PA1" type="bidirectional"/>
+        <pin num="24" name="PA2" type="bidirectional"/>
+        <pin num="25" name="PA3" type="bidirectional"/>
+        <pin num="26" name="VSS" type="power_in"/>
+        <pin num="27" name="VDD" type="power_in"/>
+        <pin num="28" name="PA4" type="bidirectional"/>
+        <pin num="29" name="PA5" type="bidirectional"/>
+        <pin num="30" name="PA6" type="bidirectional"/>
+        <pin num="31" name="PA7" type="bidirectional"/>
+        <pin num="32" name="PC4" type="bidirectional"/>
+        <pin num="33" name="PC5" type="bidirectional"/>
+        <pin num="34" name="PB0" type="bidirectional"/>
+        <pin num="35" name="PB1" type="bidirectional"/>
+        <pin num="36" name="PB2" type="bidirectional"/>
+        <pin num="37" name="PE7" type="bidirectional"/>
+        <pin num="38" name="PE8" type="bidirectional"/>
+        <pin num="39" name="PE9" type="bidirectional"/>
+        <pin num="40" name="PE10" type="bidirectional"/>
+        <pin num="41" name="PE11" type="bidirectional"/>
+        <pin num="42" name="PE12" type="bidirectional"/>
+        <pin num="43" name="PE13" type="bidirectional"/>
+        <pin num="44" name="PE14" type="bidirectional"/>
+        <pin num="45" name="PE15" type="bidirectional"/>
+        <pin num="46" name="PB10" type="bidirectional"/>
+        <pin num="47" name="PB11" type="bidirectional"/>
+        <pin num="48" name="VCAP1" type="passive"/>
+        <pin num="49" name="VSS" type="power_in"/>
+        <pin num="50" name="VDD" type="power_in"/>
+        <pin num="51" name="PB12" type="bidirectional"/>
+        <pin num="52" name="PB13" type="bidirectional"/>
+        <pin num="53" name="PB14" type="bidirectional"/>
+        <pin num="54" name="PB15" type="bidirectional"/>
+        <pin num="55" name="PD8" type="bidirectional"/>
+        <pin num="56" name="PD9" type="bidirectional"/>
+        <pin num="57" name="PD10" type="bidirectional"/>
+        <pin num="58" name="PD11" type="bidirectional"/>
+        <pin num="59" name="PD12" type="bidirectional"/>
+        <pin num="60" name="PD13" type="bidirectional"/>
+        <pin num="61" name="PD14" type="bidirectional"/>
+        <pin num="62" name="PD15" type="bidirectional"/>
+        <pin num="63" name="PC6" type="bidirectional"/>
+        <pin num="64" name="PC7" type="bidirectional"/>
+        <pin num="65" name="PC8" type="bidirectional"/>
+        <pin num="66" name="PC9" type="bidirectional"/>
+        <pin num="67" name="PA8" type="bidirectional"/>
+        <pin num="68" name="PA9" type="bidirectional"/>
+        <pin num="69" name="PA10" type="bidirectional"/>
+        <pin num="70" name="PA11" type="bidirectional"/>
+        <pin num="71" name="PA12" type="bidirectional"/>
+        <pin num="72" name="PA13" type="bidirectional"/>
+        <pin num="73" name="VCAP2" type="passive"/>
+        <pin num="74" name="VSS" type="power_in"/>
+        <pin num="75" name="VDD" type="power_in"/>
+        <pin num="76" name="PA14" type="bidirectional"/>
+        <pin num="77" name="PA15" type="bidirectional"/>
+        <pin num="78" name="PC10" type="bidirectional"/>
+        <pin num="79" name="PC11" type="bidirectional"/>
+        <pin num="80" name="PC12" type="bidirectional"/>
+        <pin num="81" name="PD0" type="bidirectional"/>
+        <pin num="82" name="PD1" type="bidirectional"/>
+        <pin num="83" name="PD2" type="bidirectional"/>
+        <pin num="84" name="PD3" type="bidirectional"/>
+        <pin num="85" name="PD4" type="bidirectional"/>
+        <pin num="86" name="PD5" type="bidirectional"/>
+        <pin num="87" name="PD6" type="bidirectional"/>
+        <pin num="88" name="PD7" type="bidirectional"/>
+        <pin num="89" name="PB3" type="bidirectional"/>
+        <pin num="90" name="PB4" type="bidirectional"/>
+        <pin num="91" name="PB5" type="bidirectional"/>
+        <pin num="92" name="PB6" type="bidirectional"/>
+        <pin num="93" name="PB7" type="bidirectional"/>
+        <pin num="94" name="BOOT0" type="input"/>
+        <pin num="95" name="PB8" type="bidirectional"/>
+        <pin num="96" name="PB9" type="bidirectional"/>
+        <pin num="97" name="PE0" type="bidirectional"/>
+        <pin num="98" name="PE1" type="bidirectional"/>
+        <pin num="99" name="VSS" type="power_in"/>
+        <pin num="100" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Full-Flight-Computer" part="USB">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB</field>
+        <field name="Footprint">Full-Flight-Computer:10118194-0001LF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="power_out"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Full-Flight-Computer">
+      <uri>/home/olsport/Documents/Rockets/PCB/Full-Flight-Computer-PCB/lib/Full-Flight-Computer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Peripherals/D+">
+      <node ref="D6" pin="1" pintype="passive"/>
+      <node ref="P6" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="/Peripherals/D-">
+      <node ref="D6" pin="3" pintype="passive"/>
+      <node ref="P6" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U8" pin="5" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="100" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="11" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="20" pinfunction="VREF+" pintype="power_in"/>
+      <node ref="U1" pin="21" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U1" pin="27" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="50" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="75" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U3" pin="12" pinfunction="CSB" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="A1" pinfunction="PS" pintype="input"/>
+      <node ref="U4" pin="B2" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U4" pin="E5" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U5" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="CSB" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="VDD_IO" pintype="power_in"/>
+      <node ref="U6" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="15" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="CS" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="4" name="5V">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="D3" pin="A" pintype="passive"/>
+      <node ref="D6" pin="4" pintype="passive"/>
+      <node ref="P6" pin="1" pinfunction="VCC" pintype="power_out"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="REGIN" pintype="power_in"/>
+      <node ref="U8" pin="8" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="5" name="AUX1">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="PC14" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="AUX2">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U1" pin="7" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="BEEP">
+      <node ref="Q9" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U1" pin="61" pinfunction="PD14" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="BOOT">
+      <node ref="J1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="94" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="9" name="BP_INT">
+      <node ref="U1" pin="4" pinfunction="PE5" pintype="bidirectional"/>
+      <node ref="U5" pin="7" pinfunction="INT" pintype="output"/>
+    </net>
+    <net code="10" name="BP_SCL">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="92" pinfunction="PB6" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="11" name="BP_SDA">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="93" pinfunction="PB7" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pinfunction="SDI" pintype="input"/>
+    </net>
+    <net code="12" name="CAP1">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="48" pinfunction="VCAP1" pintype="passive"/>
+    </net>
+    <net code="13" name="CAP2">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="73" pinfunction="VCAP2" pintype="passive"/>
+    </net>
+    <net code="14" name="DROGUE">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U1" pin="17" pinfunction="PC2_C" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="Earth">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D6" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pintype="input"/>
+      <node ref="H2" pin="1" pintype="input"/>
+      <node ref="H3" pin="1" pintype="input"/>
+      <node ref="H4" pin="1" pintype="input"/>
+      <node ref="P1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="5" pintype="passive"/>
+      <node ref="P3" pin="3" pinfunction="5" pintype="passive"/>
+      <node ref="P6" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="P6" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="P6" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q10" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q9" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="19" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U1" pin="26" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="49" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="74" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="99" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="SDO" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="GNDIO" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="A5" pinfunction="CSB" pintype="input"/>
+      <node ref="U4" pin="C1" pinfunction="SDO" pintype="output"/>
+      <node ref="U4" pin="C5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="E1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="E3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="SDO" pintype="input"/>
+      <node ref="U5" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="9" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U6" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="16" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="SDO/SA0" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="29" pinfunction="PAD" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="16" name="FLASH_MISO">
+      <node ref="U1" pin="53" pinfunction="PB14" pintype="bidirectional"/>
+      <node ref="U7" pin="2" pinfunction="SO" pintype="output"/>
+    </net>
+    <net code="17" name="FLASH_MOSI">
+      <node ref="U1" pin="54" pinfunction="PB15" pintype="bidirectional"/>
+      <node ref="U7" pin="5" pinfunction="SI" pintype="input"/>
+    </net>
+    <net code="18" name="FLASH_SCK">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U1" pin="52" pinfunction="PB13" pintype="bidirectional"/>
+      <node ref="U7" pin="6" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="19" name="HG_ACC_INT1">
+      <node ref="U1" pin="55" pinfunction="PD8" pintype="bidirectional"/>
+      <node ref="U6" pin="11" pinfunction="INT1" pintype="output"/>
+    </net>
+    <net code="20" name="HG_ACC_INT2">
+      <node ref="U1" pin="56" pinfunction="PD9" pintype="bidirectional"/>
+      <node ref="U6" pin="9" pinfunction="INT2" pintype="output"/>
+    </net>
+    <net code="21" name="HG_ACC_SCL">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="95" pinfunction="PB8" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="SCL/SPC" pintype="input"/>
+    </net>
+    <net code="22" name="HG_ACC_SDA">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="96" pinfunction="PB9" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="SDA/SDI/SDO" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="IMU_INT1">
+      <node ref="U1" pin="24" pinfunction="PA2" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="INT1" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="IMU_INT2">
+      <node ref="U1" pin="25" pinfunction="PA3" pintype="bidirectional"/>
+      <node ref="U3" pin="9" pinfunction="INT2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="IMU_SCL">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="46" pinfunction="PB10" pintype="bidirectional"/>
+      <node ref="U3" pin="13" pinfunction="SCX" pintype="input"/>
+      <node ref="U4" pin="A3" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="26" name="IMU_SDA">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="PB11" pintype="bidirectional"/>
+      <node ref="U3" pin="14" pinfunction="SDX" pintype="bidirectional"/>
+      <node ref="U4" pin="B4" pinfunction="SDI" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="MAG_DRDY">
+      <node ref="U1" pin="31" pinfunction="PA7" pintype="bidirectional"/>
+      <node ref="U4" pin="D4" pinfunction="DRDY" pintype="output"/>
+    </net>
+    <net code="28" name="MAG_INT">
+      <node ref="U1" pin="32" pinfunction="PC4" pintype="bidirectional"/>
+      <node ref="U4" pin="D2" pinfunction="INT" pintype="output"/>
+    </net>
+    <net code="29" name="MAIN">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U1" pin="16" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="NRST">
+      <node ref="P1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(BZ1-+)">
+      <node ref="BZ1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D1-Pad3)">
+      <node ref="D1" pin="3" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D1-Pad4)">
+      <node ref="D1" pin="4" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(P2-6)">
+      <node ref="D2" pin="A" pintype="passive"/>
+      <node ref="P2" pin="2" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(P3B-6)">
+      <node ref="D4" pin="A" pintype="passive"/>
+      <node ref="P3" pin="4" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(P4A-6)">
+      <node ref="P4" pin="2" pinfunction="6" pintype="passive"/>
+      <node ref="Q3" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(P4B-6)">
+      <node ref="P4" pin="4" pinfunction="6" pintype="passive"/>
+      <node ref="Q4" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(P5A-6)">
+      <node ref="P5" pin="2" pinfunction="6" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q8" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(P5B-6)">
+      <node ref="P5" pin="4" pinfunction="6" pintype="passive"/>
+      <node ref="Q2" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="OSC_IN">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PH0" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="OSC_OUT">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="PH1" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="44" name="RX_USB">
+      <node ref="U1" pin="63" pinfunction="PC6" pintype="bidirectional"/>
+      <node ref="U8" pin="25" pinfunction="RXD" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="STATUS_B">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PE11" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="STATUS_G">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="PE13" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="STATUS_R">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="PE9" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="SWCLK">
+      <node ref="P1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="76" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="SWDIO">
+      <node ref="P1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="72" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="SWO">
+      <node ref="P1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="89" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="TX_USB">
+      <node ref="U1" pin="64" pinfunction="PC7" pintype="bidirectional"/>
+      <node ref="U8" pin="26" pinfunction="TXD" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="USB_DETECT">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U1" pin="57" pinfunction="PD10" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="VBAT_SENSE">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="VIN">
+      <node ref="BZ1" pin="1" pinfunction="-" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="D2" pin="C" pintype="passive"/>
+      <node ref="D3" pin="C" pintype="passive"/>
+      <node ref="D4" pin="C" pintype="passive"/>
+      <node ref="P3" pin="1" pinfunction="5" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="55" name="VIN_SW">
+      <node ref="P3" pin="2" pinfunction="6" pintype="passive"/>
+      <node ref="P4" pin="1" pinfunction="5" pintype="passive"/>
+      <node ref="P4" pin="3" pinfunction="5" pintype="passive"/>
+      <node ref="P5" pin="1" pinfunction="5" pintype="passive"/>
+      <node ref="P5" pin="3" pinfunction="5" pintype="passive"/>
+      <node ref="Q10" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="unconnected-(D6-Pad5)">
+      <node ref="D6" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(P6-ID-Pad4)">
+      <node ref="P6" pin="4" pinfunction="ID" pintype="power_out+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(Q1-Pad4)">
+      <node ref="Q1" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(Q2-Pad4)">
+      <node ref="Q2" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(Q3-Pad3)">
+      <node ref="Q3" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(Q3-Pad4)">
+      <node ref="Q3" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(Q4-Pad3)">
+      <node ref="Q4" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(Q4-Pad4)">
+      <node ref="Q4" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-PA1-Pad23)">
+      <node ref="U1" pin="23" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U1-PA4-Pad28)">
+      <node ref="U1" pin="28" pinfunction="PA4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U1-PA5-Pad29)">
+      <node ref="U1" pin="29" pinfunction="PA5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U1-PA9-Pad68)">
+      <node ref="U1" pin="68" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U1-PA10-Pad69)">
+      <node ref="U1" pin="69" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U1-PA11-Pad70)">
+      <node ref="U1" pin="70" pinfunction="PA11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U1-PA15-Pad77)">
+      <node ref="U1" pin="77" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U1-PB0-Pad34)">
+      <node ref="U1" pin="34" pinfunction="PB0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U1-PB1-Pad35)">
+      <node ref="U1" pin="35" pinfunction="PB1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U1-PB2-Pad36)">
+      <node ref="U1" pin="36" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U1-PB4-Pad90)">
+      <node ref="U1" pin="90" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U1-PB5-Pad91)">
+      <node ref="U1" pin="91" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U1-PC5-Pad33)">
+      <node ref="U1" pin="33" pinfunction="PC5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U1-PC8-Pad65)">
+      <node ref="U1" pin="65" pinfunction="PC8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U1-PC9-Pad66)">
+      <node ref="U1" pin="66" pinfunction="PC9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U1-PC10-Pad78)">
+      <node ref="U1" pin="78" pinfunction="PC10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U1-PC11-Pad79)">
+      <node ref="U1" pin="79" pinfunction="PC11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U1-PC12-Pad80)">
+      <node ref="U1" pin="80" pinfunction="PC12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U1-PD0-Pad81)">
+      <node ref="U1" pin="81" pinfunction="PD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U1-PD1-Pad82)">
+      <node ref="U1" pin="82" pinfunction="PD1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U1-PD2-Pad83)">
+      <node ref="U1" pin="83" pinfunction="PD2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U1-PD3-Pad84)">
+      <node ref="U1" pin="84" pinfunction="PD3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U1-PD4-Pad85)">
+      <node ref="U1" pin="85" pinfunction="PD4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U1-PD5-Pad86)">
+      <node ref="U1" pin="86" pinfunction="PD5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U1-PD6-Pad87)">
+      <node ref="U1" pin="87" pinfunction="PD6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U1-PD7-Pad88)">
+      <node ref="U1" pin="88" pinfunction="PD7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U1-PD11-Pad58)">
+      <node ref="U1" pin="58" pinfunction="PD11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U1-PD15-Pad62)">
+      <node ref="U1" pin="62" pinfunction="PD15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U1-PE0-Pad97)">
+      <node ref="U1" pin="97" pinfunction="PE0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U1-PE1-Pad98)">
+      <node ref="U1" pin="98" pinfunction="PE1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U1-PE2-Pad1)">
+      <node ref="U1" pin="1" pinfunction="PE2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U1-PE3-Pad2)">
+      <node ref="U1" pin="2" pinfunction="PE3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U1-PE4-Pad3)">
+      <node ref="U1" pin="3" pinfunction="PE4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U1-PE7-Pad37)">
+      <node ref="U1" pin="37" pinfunction="PE7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U1-PE8-Pad38)">
+      <node ref="U1" pin="38" pinfunction="PE8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U1-PE10-Pad40)">
+      <node ref="U1" pin="40" pinfunction="PE10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U1-PE12-Pad42)">
+      <node ref="U1" pin="42" pinfunction="PE12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U1-PE14-Pad44)">
+      <node ref="U1" pin="44" pinfunction="PE14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U1-PE15-Pad45)">
+      <node ref="U1" pin="45" pinfunction="PE15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U1-VBAT-Pad6)">
+      <node ref="U1" pin="6" pinfunction="VBAT" pintype="power_in+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U3-NC-Pad2)">
+      <node ref="U3" pin="2" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U3-NC-Pad3)">
+      <node ref="U3" pin="3" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U3-NC-Pad10)">
+      <node ref="U3" pin="10" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U3-NC-Pad11)">
+      <node ref="U3" pin="11" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U6-NC-Pad2)">
+      <node ref="U6" pin="2" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U6-NC1-Pad3)">
+      <node ref="U6" pin="3" pinfunction="NC1" pintype="passive+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(U8-CTS-Pad23)">
+      <node ref="U8" pin="23" pinfunction="CTS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(U8-DCD-Pad1)">
+      <node ref="U8" pin="1" pinfunction="DCD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(U8-DSR-Pad27)">
+      <node ref="U8" pin="27" pinfunction="DSR" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U8-DTR-Pad28)">
+      <node ref="U8" pin="28" pinfunction="DTR" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U8-NC-Pad10)">
+      <node ref="U8" pin="10" pinfunction="NC" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U8-NC@1-Pad13)">
+      <node ref="U8" pin="13" pinfunction="NC@1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U8-NC@2-Pad14)">
+      <node ref="U8" pin="14" pinfunction="NC@2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U8-NC@3-Pad15)">
+      <node ref="U8" pin="15" pinfunction="NC@3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U8-NC@4-Pad16)">
+      <node ref="U8" pin="16" pinfunction="NC@4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U8-NC@5-Pad17)">
+      <node ref="U8" pin="17" pinfunction="NC@5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U8-NC@6-Pad19)">
+      <node ref="U8" pin="19" pinfunction="NC@6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U8-NC@7-Pad20)">
+      <node ref="U8" pin="20" pinfunction="NC@7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U8-NC@8-Pad21)">
+      <node ref="U8" pin="21" pinfunction="NC@8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U8-NC@9-Pad22)">
+      <node ref="U8" pin="22" pinfunction="NC@9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U8-NC{slash}VPP-Pad18)">
+      <node ref="U8" pin="18" pinfunction="NC/VPP" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U8-RI-Pad2)">
+      <node ref="U8" pin="2" pinfunction="RI" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U8-RTS-Pad24)">
+      <node ref="U8" pin="24" pinfunction="RTS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U8-SUSPEND-Pad12)">
+      <node ref="U8" pin="12" pinfunction="SUSPEND" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U8-VDD-Pad6)">
+      <node ref="U8" pin="6" pinfunction="VDD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(Y1-Pad2)">
+      <node ref="Y1" pin="2" pintype="no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(Y1-Pad4)">
+      <node ref="Y1" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="133" name="~{AUX1_CONT}">
+      <node ref="Q6" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="134" name="~{AUX2_CONT}">
+      <node ref="Q7" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="135" name="~{DROGUE_CONT}">
+      <node ref="Q8" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="PC3_C" pintype="bidirectional"/>
+    </net>
+    <net code="136" name="~{FLASH_HOLD}">
+      <node ref="U1" pin="60" pinfunction="PD13" pintype="bidirectional"/>
+      <node ref="U7" pin="7" pinfunction="*HOLD" pintype="input"/>
+    </net>
+    <net code="137" name="~{FLASH_SS}">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U1" pin="51" pinfunction="PB12" pintype="bidirectional"/>
+      <node ref="U7" pin="1" pinfunction="*CE" pintype="input"/>
+    </net>
+    <net code="138" name="~{FLASH_WP}">
+      <node ref="U1" pin="59" pinfunction="PD12" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="*WP" pintype="input"/>
+    </net>
+    <net code="139" name="~{MAIN_CONT}">
+      <node ref="Q5" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="140" name="~{SWITCH}">
+      <node ref="Q10" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="141" name="~{USB_RST}">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U1" pin="71" pinfunction="PA12" pintype="bidirectional"/>
+      <node ref="U8" pin="9" pinfunction="~{RST}" pintype="bidirectional"/>
+    </net>
+    <net code="142" name="~{USB_SUSPEND}">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U1" pin="67" pinfunction="PA8" pintype="bidirectional"/>
+      <node ref="U8" pin="11" pinfunction="~{SUSPEND}" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
